@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aakter
-- 👀 I’m interested in backend/frontend
-- 🌱 I’m currently learning spring boot, spring mvc,  angular, aws, CI/CD etc
+- 👀 I’m interested both in back-end & front-end
+- 🌱 I have learned spring boot, spring mvc,  angular, aws, CI/CD etc
 - 💞️ I’m looking to collaborate on web application developments
 - 📫 How to reach me "afsanaakter22aa@gmail.com"
 
