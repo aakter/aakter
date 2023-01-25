@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @aakter
-- 👀 I’m interested both in back-end & front-end
-- 🌱 I have learned spring boot, spring mvc,  angular, aws, CI/CD etc
-- 💞️ I’m looking to collaborate on web application developments
+- 👋 Hello, I am Afsana Akter
+- 👀 I am a software developer, mostly work on full-stack developing
+- 🌱 I have learned C++, Java, Spring boot framework, Angular, Microsoft SQL server to run queries, and PowerBI 
+- 💞️ I’m looking to contribute on Web Application Developments
 - 📫 How to reach me "afsanaakter22aa@gmail.com"
 
 <!---
